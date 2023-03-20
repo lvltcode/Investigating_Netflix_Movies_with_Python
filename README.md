@@ -14,3 +14,13 @@ Your friend suspects that movies are getting shorter and they've found some init
 | duration	| Duration of the show|
 | description	| Description of the show| 
 | genre	| Show genre| 
+
+## Approach
+
+1. Load and inspect the Netflix data
+2. Subset the DataFrame for "Movies"
+3. Subset the columns of the new DataFrame
+4. Filter the DataFrame by Movie duration
+5. Assign colors to movie genres
+6. Plot the movie duration by year using the genre colors created
+7. Answer "Are we certain that movies are getting shorter?"
