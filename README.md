@@ -24,3 +24,6 @@ Your friend suspects that movies are getting shorter and they've found some init
 5. Assign colors to movie genres
 6. Plot the movie duration by year using the genre colors created
 7. Answer "Are we certain that movies are getting shorter?"
+
+## Plot
+[Link to the Jupyter Notebook](https://github.com/lvltcode/Investigating_Netflix_Movies_with_Python/blob/main/notebook.ipynb)
